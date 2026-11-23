@@ -91,15 +91,13 @@ Guardian pairs a Next.js dashboard with a Python Lambda ingestion and bias-analy
 ### Applications
 
 <details>
-<summary><strong>TravelBuddy</strong> · Text and image generation on iOS</summary>
+<summary><strong>TravelBuddy</strong> · Personalized iOS trip planner</summary>
 
-[Repository](https://github.com/SinghOPS/TravelBuddy) · `Swift`
+[Repository](https://github.com/SinghOPS/TravelBuddy) · `SwiftUI · Gemini`
 
-Generate text and images in a Swift iOS app.
+TravelBuddy is a SwiftUI trip planner. Travelers enter their route, dates, budget, group size, and transportation preferences. Gemini builds a day-by-day itinerary, and the app organizes it into timed activities with estimated costs and travel tips.
 
-Built out the Swift UI and navigation and integrated text and image generation APIs.
-
-My iOS work included the login screen, the initial navigation flow, and integration of the screens into a working interface. I then connected both generation APIs and removed the earlier SwiftData dependency as part of that integration.
+I built the login screen and navigation, connected the trip form to the itinerary view, and integrated the APIs for itinerary generation and destination imagery.
 
 [Project](https://github.com/SinghOPS/TravelBuddy) · [API integration](https://github.com/SinghOPS/TravelBuddy/commit/dfea0184e3fd7540500ca96f30a667488ee7fc95)
 
