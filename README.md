@@ -1,4 +1,4 @@
-![Sahajpreet Singh Khasria — Backend & Full-Stack Engineer · AI Systems & Cloud Infrastructure](assets/ink-masthead.png)
+![Sahajpreet Singh Khasria — Backend & Full-Stack Engineer · AI Systems & Cloud Infrastructure](assets/ink-masthead-rounded.png)
 
 [Technology stack](#technology-stack) · [Featured work](#featured-work) · [Project directory](#project-directory)
 
@@ -8,7 +8,7 @@ I build backend services and full-stack applications. For a patent research tool
 
 ## Technology stack
 
-<img src="assets/paper/stack.svg" width="100%" alt="Technology stack: languages, applications, cloud and deployment, AI and retrieval, data and operations">
+<img src="assets/paper/stack-rounded.svg" width="100%" alt="Technology stack: languages, applications, cloud and deployment, AI and retrieval, data and operations">
 
 ## Featured work
 
