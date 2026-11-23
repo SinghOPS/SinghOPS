@@ -1,4 +1,7 @@
-![Sahajpreet Singh Khasria — Backend & Full-Stack Engineer · AI Systems & Cloud Infrastructure](assets/profile-banner.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.png">
+  <img src="assets/profile-banner.png" alt="Sahajpreet Singh Khasria — Backend &amp; Full-Stack Engineer · AI Systems &amp; Cloud Infrastructure">
+</picture>
 
 [Technology stack](#technology-stack) · [Featured work](#featured-work) · [Project directory](#project-directory)
 
@@ -10,23 +13,23 @@ I build backend services and full-stack applications. For a patent research tool
 
 **Languages**
 
-<img src="assets/stack/python.svg" width="22" height="22" alt=""> Python · <img src="assets/stack/typescript.svg" width="22" height="22" alt=""> TypeScript · <img src="assets/stack/javascript.svg" width="22" height="22" alt=""> JavaScript · <img src="assets/stack/java.svg" width="22" height="22" alt=""> Java · <img src="assets/stack/swift.svg" width="22" height="22" alt=""> Swift · SQL · <img src="assets/stack/go.svg" width="22" height="22" alt=""> Go
+<img src="assets/chips/python.png" width="87" height="30" alt="Python"> <img src="assets/chips/typescript.png" width="120" height="30" alt="TypeScript"> <img src="assets/chips/javascript.png" width="120" height="30" alt="JavaScript"> <img src="assets/chips/java.png" width="71" height="30" alt="Java"> <img src="assets/chips/swift.png" width="79" height="30" alt="Swift">· SQL · <img src="assets/chips/go.png" width="54" height="30" alt="Go">
 
 **Applications**
 
-<img src="assets/stack/react.svg" width="22" height="22" alt=""> React · <img src="assets/stack/next-js.svg" width="22" height="22" alt=""> Next.js · <img src="assets/stack/node-js.svg" width="22" height="22" alt=""> Node.js · <img src="assets/stack/flask.svg" width="22" height="22" alt=""> Flask · <img src="assets/stack/swiftui.png" width="22" height="22" alt=""> SwiftUI
+<img src="assets/chips/react.png" width="79" height="30" alt="React"> <img src="assets/chips/next-js.png" width="95" height="30" alt="Next.js"> <img src="assets/chips/node-js.png" width="95" height="30" alt="Node.js"> <img src="assets/chips/flask.png" width="79" height="30" alt="Flask"> <img src="assets/chips/swiftui.png" width="95" height="30" alt="SwiftUI">
 
 **Cloud & deployment**
 
-<img src="assets/stack/aws.svg" width="22" height="22" alt=""> AWS · <img src="assets/stack/aws-cdk.png" width="22" height="22" alt=""> AWS CDK · <img src="assets/stack/lambda.svg" width="22" height="22" alt=""> Lambda · <img src="assets/stack/api-gateway.svg" width="22" height="22" alt=""> API Gateway · <img src="assets/stack/eks-fargate.svg" width="22" height="22" alt=""> EKS Fargate · <img src="assets/stack/s3.svg" width="22" height="22" alt=""> S3 · <img src="assets/stack/dynamodb.svg" width="22" height="22" alt=""> DynamoDB · <img src="assets/stack/docker.svg" width="22" height="22" alt=""> Docker · <img src="assets/stack/kubernetes.svg" width="22" height="22" alt=""> Kubernetes · <img src="assets/stack/google-cloud.svg" width="22" height="22" alt=""> Google Cloud · <img src="assets/stack/cloud-run.svg" width="22" height="22" alt=""> Cloud Run
+<img src="assets/chips/aws.png" width="63" height="30" alt="AWS"> <img src="assets/chips/aws-cdk.png" width="95" height="30" alt="AWS CDK"> <img src="assets/chips/lambda.png" width="87" height="30" alt="Lambda"> <img src="assets/chips/api-gateway.png" width="128" height="30" alt="API Gateway"> <img src="assets/chips/eks-fargate.png" width="128" height="30" alt="EKS Fargate"> <img src="assets/chips/s3.png" width="54" height="30" alt="S3"> <img src="assets/chips/dynamodb.png" width="104" height="30" alt="DynamoDB"> <img src="assets/chips/docker.png" width="87" height="30" alt="Docker"> <img src="assets/chips/kubernetes.png" width="120" height="30" alt="Kubernetes"> <img src="assets/chips/google-cloud.png" width="136" height="30" alt="Google Cloud"> <img src="assets/chips/cloud-run.png" width="112" height="30" alt="Cloud Run">
 
 **AI & retrieval**
 
-<img src="assets/stack/bedrock.png" width="22" height="22" alt=""> Bedrock · <img src="assets/stack/strands-agents-sdk.svg" width="22" height="22" alt=""> Strands Agents SDK · <img src="assets/stack/amazon-q.png" width="22" height="22" alt=""> Amazon Q · <img src="assets/stack/vertex-ai.svg" width="22" height="22" alt=""> Vertex AI · <img src="assets/stack/gemini.svg" width="22" height="22" alt=""> Gemini · <img src="assets/stack/milvus.svg" width="22" height="22" alt=""> Milvus
+<img src="assets/chips/bedrock.png" width="95" height="30" alt="Bedrock"> <img src="assets/chips/strands-agents-sdk.png" width="186" height="30" alt="Strands Agents SDK"> <img src="assets/chips/amazon-q.png" width="104" height="30" alt="Amazon Q"> <img src="assets/chips/vertex-ai.png" width="112" height="30" alt="Vertex AI"> <img src="assets/chips/gemini.png" width="87" height="30" alt="Gemini"> <img src="assets/chips/milvus.png" width="87" height="30" alt="Milvus">
 
 **Data & operations**
 
-<img src="assets/stack/postgresql.svg" width="22" height="22" alt=""> PostgreSQL · <img src="assets/stack/redis.svg" width="22" height="22" alt=""> Redis · <img src="assets/stack/gunicorn.svg" width="22" height="22" alt=""> Gunicorn · <img src="assets/stack/nginx.svg" width="22" height="22" alt=""> Nginx · <img src="assets/stack/prometheus.svg" width="22" height="22" alt=""> Prometheus · <img src="assets/stack/grafana.svg" width="22" height="22" alt=""> Grafana · <img src="assets/stack/jaeger.svg" width="22" height="22" alt=""> Jaeger
+<img src="assets/chips/postgresql.png" width="120" height="30" alt="PostgreSQL"> <img src="assets/chips/redis.png" width="79" height="30" alt="Redis"> <img src="assets/chips/gunicorn.png" width="104" height="30" alt="Gunicorn"> <img src="assets/chips/nginx.png" width="79" height="30" alt="Nginx"> <img src="assets/chips/prometheus.png" width="120" height="30" alt="Prometheus"> <img src="assets/chips/grafana.png" width="95" height="30" alt="Grafana"> <img src="assets/chips/jaeger.png" width="87" height="30" alt="Jaeger">
 
 ## Featured work
 
