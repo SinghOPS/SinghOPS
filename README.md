@@ -1,14 +1,32 @@
-![Sahajpreet Singh Khasria (@SinghOPS), AI systems and cloud infrastructure](assets/profile-banner.png)
+![Sahajpreet Singh Khasria — Backend & Full-Stack Engineer · AI Systems & Cloud Infrastructure](assets/profile-banner.png)
+
+[Technology stack](#technology-stack) · [Featured work](#featured-work) · [Project directory](#project-directory)
 
 ## Hi, I’m Sahajpreet.
 
-My favorite kind of bug is the one that makes me open both the model trace and the database logs. If you’ve ever spent an afternoon wondering where one missing citation went, we’d probably get along.
+I build backend services and full-stack applications. For a patent research tool, I connected a Next.js frontend to AWS APIs and made long-running searches resumable. At ASU’s AI Cloud Innovation Center I worked on getting a question to the right agent, a source into the answer, and the whole thing running on AWS. Ask me about the time a chatbot found the answer and still lost the citation.
 
-### Overview
+## Technology stack
 
-I’m a computer science graduate from Arizona State University. At ASU’s AI Cloud Innovation Center, I built parts of the path from a user’s question to a sourced answer: document ingestion, specialist routing, streaming, and cloud deployment. I also work on backend performance and evaluate when giving a model another attempt actually helps.
+**Languages**
 
-[Explore my projects ↓](#featured-work)
+<img src="assets/stack/python.svg" width="22" height="22" alt=""> Python · <img src="assets/stack/typescript.svg" width="22" height="22" alt=""> TypeScript · <img src="assets/stack/javascript.svg" width="22" height="22" alt=""> JavaScript · <img src="assets/stack/java.svg" width="22" height="22" alt=""> Java · <img src="assets/stack/swift.svg" width="22" height="22" alt=""> Swift · SQL · <img src="assets/stack/go.svg" width="22" height="22" alt=""> Go
+
+**Applications**
+
+<img src="assets/stack/react.svg" width="22" height="22" alt=""> React · <img src="assets/stack/next-js.svg" width="22" height="22" alt=""> Next.js · <img src="assets/stack/node-js.svg" width="22" height="22" alt=""> Node.js · <img src="assets/stack/flask.svg" width="22" height="22" alt=""> Flask · <img src="assets/stack/swiftui.png" width="22" height="22" alt=""> SwiftUI
+
+**Cloud & deployment**
+
+<img src="assets/stack/aws.svg" width="22" height="22" alt=""> AWS · <img src="assets/stack/aws-cdk.png" width="22" height="22" alt=""> AWS CDK · <img src="assets/stack/lambda.svg" width="22" height="22" alt=""> Lambda · <img src="assets/stack/api-gateway.svg" width="22" height="22" alt=""> API Gateway · <img src="assets/stack/eks-fargate.svg" width="22" height="22" alt=""> EKS Fargate · <img src="assets/stack/s3.svg" width="22" height="22" alt=""> S3 · <img src="assets/stack/dynamodb.svg" width="22" height="22" alt=""> DynamoDB · <img src="assets/stack/docker.svg" width="22" height="22" alt=""> Docker · <img src="assets/stack/kubernetes.svg" width="22" height="22" alt=""> Kubernetes · <img src="assets/stack/google-cloud.svg" width="22" height="22" alt=""> Google Cloud · <img src="assets/stack/cloud-run.svg" width="22" height="22" alt=""> Cloud Run
+
+**AI & retrieval**
+
+<img src="assets/stack/bedrock.png" width="22" height="22" alt=""> Bedrock · <img src="assets/stack/strands-agents-sdk.svg" width="22" height="22" alt=""> Strands Agents SDK · <img src="assets/stack/amazon-q.png" width="22" height="22" alt=""> Amazon Q · <img src="assets/stack/vertex-ai.svg" width="22" height="22" alt=""> Vertex AI · <img src="assets/stack/gemini.svg" width="22" height="22" alt=""> Gemini · <img src="assets/stack/milvus.svg" width="22" height="22" alt=""> Milvus
+
+**Data & operations**
+
+<img src="assets/stack/postgresql.svg" width="22" height="22" alt=""> PostgreSQL · <img src="assets/stack/redis.svg" width="22" height="22" alt=""> Redis · <img src="assets/stack/gunicorn.svg" width="22" height="22" alt=""> Gunicorn · <img src="assets/stack/nginx.svg" width="22" height="22" alt=""> Nginx · <img src="assets/stack/prometheus.svg" width="22" height="22" alt=""> Prometheus · <img src="assets/stack/grafana.svg" width="22" height="22" alt=""> Grafana · <img src="assets/stack/jaeger.svg" width="22" height="22" alt=""> Jaeger
 
 ## Featured work
 
@@ -52,7 +70,10 @@ The assistant helps National Association of State Workforce Agencies users query
 
 [Project](https://github.com/ASUCICREPO/multilingual-RAG-chatbot) · [Retrieval refactor](https://github.com/ASUCICREPO/multilingual-RAG-chatbot/commit/b3fd7c69b106135ba0d7e12ab6bb6e927524b53d) · [Backend infrastructure](https://github.com/ASUCICREPO/multilingual-RAG-chatbot/commit/b8f98f390858fe5672f2de78928056c016c28b9e) · [Conversation memory](https://github.com/ASUCICREPO/multilingual-RAG-chatbot/commit/0e32b48e64f5bca3b0d0cfa10fccd29f2fd90d5b)
 
-### Multi-Agent Inference-Time Evaluation
+## Project directory
+
+<details>
+<summary>Multi-Agent Inference-Time Evaluation</summary>
 
 Evaluated specialist agents across five question domains using techniques such as code execution and retries with error feedback. Accuracy rose from **20.5% to 26%** on 200 mixed examples.
 
@@ -60,7 +81,10 @@ The five domains were math, coding, planning, common sense, and future predictio
 
 [Project](https://github.com/SinghOPS/CSE476-Final-project#performance-results)
 
-### Guardian — The Algorithmic Auditor
+</details>
+
+<details>
+<summary>Guardian — The Algorithmic Auditor</summary>
 
 AWS and Next.js fairness-auditing prototype with disparate-impact and proxy-bias checks. My commits cover project setup, CSV upload validation, test data, and architecture and testing guides.
 
@@ -68,7 +92,10 @@ Guardian pairs a Next.js dashboard with a Python Lambda ingestion and bias-analy
 
 [Project](https://github.com/SinghOPS/spark-challenge) · [CSV validation](https://github.com/SinghOPS/spark-challenge/commit/dbe1a7b03621b35eaeafb041835839333f1b6ba9)
 
-### TravelBuddy
+</details>
+
+<details>
+<summary>TravelBuddy</summary>
 
 Built out the Swift UI and navigation and integrated text and image generation APIs.
 
@@ -76,7 +103,10 @@ My iOS work included the login screen, the initial navigation flow, and integrat
 
 [Project](https://github.com/SinghOPS/TravelBuddy) · [API integration](https://github.com/SinghOPS/TravelBuddy/commit/dfea0184e3fd7540500ca96f30a667488ee7fc95)
 
-### PrepU
+</details>
+
+<details>
+<summary>PrepU</summary>
 
 Added a summarizer, an API module, and face and emotion analysis modules for interview tooling.
 
@@ -84,7 +114,10 @@ PrepU combines a React frontend with Python modules. My authored commits introdu
 
 [Project](https://github.com/SinghOPS/PrepU/commits/main/)
 
-### InterviewIQ
+</details>
+
+<details>
+<summary>InterviewIQ</summary>
 
 This React mock interview prototype pairs video playback with structured feedback on answers.
 
@@ -92,7 +125,10 @@ The interviewer view presents a behavioral question alongside a recorded respons
 
 [Project](https://github.com/aryankhanna2004/InterviewIQ)
 
-### ASDA
+</details>
+
+<details>
+<summary>ASDA</summary>
 
 Authored nine upstream commits, including a crawler and Flask UI updates to a Form 990 search prototype.
 
@@ -100,12 +136,17 @@ The prototype helps users explore nonprofit tax filings by city, state, gross re
 
 [Project](https://github.com/daniel10015/ASDA) · [Crawler commit](https://github.com/daniel10015/ASDA/commit/52282587de8c304ee3621998b93ed6de3fac1ee1)
 
-### AWS AI Chatbot for Corrections
+</details>
+
+<details>
+<summary>AWS AI Chatbot for Corrections</summary>
 
 Updated the infrastructure deployment guide.
 
 The project provisions an Amazon Q Business assistant with a web crawler, index, and retriever through AWS CDK. My upstream change was to the infrastructure-as-code deployment guide used to set up that stack.
 
 [Project](https://github.com/ASUCICREPO/CIC-AI-Chatbot-Corrections) · [Organization PR](https://github.com/ASUCICREPO/CIC-AI-Chatbot-Corrections/pull/2)
+
+</details>
 
 [Browse my repositories](https://github.com/SinghOPS?tab=repositories)
