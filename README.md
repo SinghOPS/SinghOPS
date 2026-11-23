@@ -12,7 +12,7 @@ I build backend services and full-stack applications. For a patent research tool
 
 ## Featured work
 
-### ![I‑ECHO · Multi-agent RAG on AWS](assets/sections/ivory-heading-1.png)
+### ![I‑ECHO · Multi-agent RAG on AWS](assets/sections/rounded-feature-1.png)
 
 I added the **EKS Fargate stack** and integrated API Gateway and the load balancer. I refined routing to specialist agents, fixed streaming behavior, and added citation handling with document links. My **10 merged PRs** also include PowerPoint-to-PDF ingestion and session management.
 
@@ -20,7 +20,7 @@ I‑ECHO uses AWS Bedrock and Strands to route questions about tuberculosis and 
 
 [Project](https://github.com/ASUCICREPO/IECHO-RAG-CHATBOT) · [Infrastructure](https://github.com/ASUCICREPO/IECHO-RAG-CHATBOT/commit/eee2f173e37885c3e1cd0047af41467d31f0b367) · [Agent routing](https://github.com/ASUCICREPO/IECHO-RAG-CHATBOT/commit/e29dfdcff4273dce122a97500a3ff923798d6c90) · [Ingestion PR](https://github.com/ASUCICREPO/IECHO-RAG-CHATBOT/pull/5) · [Session management](https://github.com/ASUCICREPO/IECHO-RAG-CHATBOT/pull/2)
 
-### ![MLH URL Shortener · Backend performance](assets/sections/ivory-heading-2.png)
+### ![MLH URL Shortener · Backend performance](assets/sections/rounded-feature-2.png)
 
 [![Development benchmark for GET /urls: throughput up 76.6%, latency down 43.4%, 174 tests passed.](assets/mlh-benchmark.svg)](https://github.com/RETR0-OS/MLH_PE_URL_Shortener/pull/16)
 
@@ -30,7 +30,7 @@ For updates, I limited database writes to the fields that changed. For list endp
 
 [Project](https://github.com/RETR0-OS/MLH_PE_URL_Shortener) · [Merged PR and benchmarks](https://github.com/RETR0-OS/MLH_PE_URL_Shortener/pull/16)
 
-### ![HOPE · Crisis resource chatbot](assets/sections/ivory-heading-3.png)
+### ![HOPE · Crisis resource chatbot](assets/sections/rounded-feature-3.png)
 
 I improved geographic resource search, restored missing citations by adding a retrieval step before generation, and fixed session handling so follow-up messages retained context. I also migrated inference to Amazon Nova 2 Lite.
 
@@ -38,7 +38,7 @@ HOPE connects users with WestCare Arizona resources. I worked on location-aware 
 
 [Project](https://github.com/ASUCICREPO/crisis-help-chatbot) · [Geo-search](https://github.com/ASUCICREPO/crisis-help-chatbot/commit/fb8bcba2a0b904210f83ed26b9b847add3141556) · [Citation fix](https://github.com/ASUCICREPO/crisis-help-chatbot/commit/608582b9c7caacad4fd37266e8bccc59ebad4f38) · [Session handling](https://github.com/ASUCICREPO/crisis-help-chatbot/commit/e0611e8585d718df4a0e717e5285fdd36367886d)
 
-### ![Patent Novelty Assessment](assets/sections/ivory-heading-4.png)
+### ![Patent Novelty Assessment](assets/sections/rounded-feature-4.png)
 
 Integrated deployment across Next.js, API Gateway, and Lambda. Added early stopping and resume for patent and literature searches, with persisted progress and clearer error feedback.
 
@@ -46,7 +46,7 @@ The platform searches patent databases and academic literature for prior art. I 
 
 [Project](https://github.com/ASUCICREPO/Patent-Novelty-Assessment) · [Search workflow](https://github.com/ASUCICREPO/Patent-Novelty-Assessment/commit/2c0d9acb25f12c4842b3fc45811f9094c9e583b7) · [Deployment PR](https://github.com/ASUCICREPO/Patent-Novelty-Assessment/pull/23)
 
-### ![NASWA Multilingual RAG Chatbot](assets/sections/ivory-heading-5.png)
+### ![NASWA Multilingual RAG Chatbot](assets/sections/rounded-feature-5.png)
 
 Added CDK infrastructure and a Bedrock Lambda handler, English and Spanish selection, and conversation memory. Refactored retrieval to use Bedrock `RetrieveAndGenerate` with Guardrails.
 
@@ -59,7 +59,7 @@ The assistant helps National Association of State Workforce Agencies users query
 ### AI research & tooling
 
 <details>
-<summary><strong>Multi-Agent Inference-Time Evaluation</strong> · Execution retries and accuracy</summary>
+<summary><img src="assets/sections/directory-multi-agent-inference-time-evaluation.svg" width="90%" alt="Multi-Agent Inference-Time Evaluation · Execution retries and accuracy"></summary>
 
 [Repository](https://github.com/SinghOPS/CSE476-Final-project) · `Python`
 
@@ -74,7 +74,7 @@ The five domains were math, coding, planning, common sense, and future predictio
 </details>
 
 <details>
-<summary><strong>Guardian — The Algorithmic Auditor</strong> · CSV validation and bias checks</summary>
+<summary><img src="assets/sections/directory-guardian-the-algorithmic-auditor.svg" width="90%" alt="Guardian — The Algorithmic Auditor · CSV validation and bias checks"></summary>
 
 [Repository](https://github.com/SinghOPS/spark-challenge) · `Next.js · AWS`
 
@@ -91,7 +91,7 @@ Guardian pairs a Next.js dashboard with a Python Lambda ingestion and bias-analy
 ### Applications
 
 <details>
-<summary><strong>TravelBuddy</strong> · Text and image generation on iOS</summary>
+<summary><img src="assets/sections/directory-travelbuddy.svg" width="90%" alt="TravelBuddy · Text and image generation on iOS"></summary>
 
 [Repository](https://github.com/SinghOPS/TravelBuddy) · `Swift`
 
@@ -106,7 +106,7 @@ My iOS work included the login screen, the initial navigation flow, and integrat
 </details>
 
 <details>
-<summary><strong>PrepU</strong> · Interview summaries and visual analysis</summary>
+<summary><img src="assets/sections/directory-prepu.svg" width="90%" alt="PrepU · Interview summaries and visual analysis"></summary>
 
 [Repository](https://github.com/SinghOPS/PrepU) · `React · Python`
 
@@ -121,7 +121,7 @@ PrepU combines a React frontend with Python modules. My authored commits introdu
 </details>
 
 <details>
-<summary><strong>InterviewIQ</strong> · Video playback and feedback</summary>
+<summary><img src="assets/sections/directory-interviewiq.svg" width="90%" alt="InterviewIQ · Video playback and feedback"></summary>
 
 [Repository](https://github.com/aryankhanna2004/InterviewIQ) · `React`
 
@@ -138,7 +138,7 @@ The interviewer view presents a behavioral question alongside a recorded respons
 ### Data & infrastructure
 
 <details>
-<summary><strong>ASDA</strong> · Form 990 crawler and search</summary>
+<summary><img src="assets/sections/directory-asda.svg" width="90%" alt="ASDA · Form 990 crawler and search"></summary>
 
 [Repository](https://github.com/daniel10015/ASDA) · `Flask · JavaScript`
 
@@ -153,7 +153,7 @@ The prototype helps users explore nonprofit tax filings by city, state, gross re
 </details>
 
 <details>
-<summary><strong>AWS AI Chatbot for Corrections</strong> · CDK deployment guide</summary>
+<summary><img src="assets/sections/directory-aws-ai-chatbot-for-corrections.svg" width="90%" alt="AWS AI Chatbot for Corrections · CDK deployment guide"></summary>
 
 [Repository](https://github.com/ASUCICREPO/CIC-AI-Chatbot-Corrections) · `AWS CDK`
 
