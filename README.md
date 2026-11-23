@@ -1,4 +1,4 @@
-![Sahajpreet Singh Khasria — Backend & Full-Stack Engineer · AI Systems & Cloud Infrastructure](assets/ink-masthead.png)
+![Sahajpreet Singh Khasria — Backend & Full-Stack Engineer · AI Systems & Cloud Infrastructure](assets/ink-ribbon.png)
 
 [Technology stack](#technology-stack) · [Featured work](#featured-work) · [Project directory](#project-directory)
 
@@ -39,6 +39,8 @@ I‑ECHO uses AWS Bedrock and Strands to route questions about tuberculosis and 
 [Project](https://github.com/ASUCICREPO/IECHO-RAG-CHATBOT) · [Infrastructure](https://github.com/ASUCICREPO/IECHO-RAG-CHATBOT/commit/eee2f173e37885c3e1cd0047af41467d31f0b367) · [Agent routing](https://github.com/ASUCICREPO/IECHO-RAG-CHATBOT/commit/e29dfdcff4273dce122a97500a3ff923798d6c90) · [Ingestion PR](https://github.com/ASUCICREPO/IECHO-RAG-CHATBOT/pull/5) · [Session management](https://github.com/ASUCICREPO/IECHO-RAG-CHATBOT/pull/2)
 
 ### MLH URL Shortener · Backend performance
+
+[![Development benchmark for GET /urls: throughput up 76.6%, latency down 43.4%, 174 tests passed.](assets/mlh-benchmark.svg)](https://github.com/RETR0-OS/MLH_PE_URL_Shortener/pull/16)
 
 I added Redis redirect caching with invalidation, reduced database and serialization overhead, and tuned Gunicorn and Nginx. In the merged PR’s development benchmark, **`GET /urls` handled 76.6% more requests per second with 43.4% lower latency**. All 174 existing tests passed.
 
