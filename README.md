@@ -12,7 +12,7 @@ I build backend services and full-stack applications. For a patent research tool
 
 ## Featured work
 
-### ![I‑ECHO · Multi-agent RAG on AWS](assets/sections/project-1.svg)
+### ![I‑ECHO · Multi-agent RAG on AWS](assets/sections/ivory-heading-1.png)
 
 I added the **EKS Fargate stack** and integrated API Gateway and the load balancer. I refined routing to specialist agents, fixed streaming behavior, and added citation handling with document links. My **10 merged PRs** also include PowerPoint-to-PDF ingestion and session management.
 
@@ -20,7 +20,7 @@ I‑ECHO uses AWS Bedrock and Strands to route questions about tuberculosis and 
 
 [Project](https://github.com/ASUCICREPO/IECHO-RAG-CHATBOT) · [Infrastructure](https://github.com/ASUCICREPO/IECHO-RAG-CHATBOT/commit/eee2f173e37885c3e1cd0047af41467d31f0b367) · [Agent routing](https://github.com/ASUCICREPO/IECHO-RAG-CHATBOT/commit/e29dfdcff4273dce122a97500a3ff923798d6c90) · [Ingestion PR](https://github.com/ASUCICREPO/IECHO-RAG-CHATBOT/pull/5) · [Session management](https://github.com/ASUCICREPO/IECHO-RAG-CHATBOT/pull/2)
 
-### ![MLH URL Shortener · Backend performance](assets/sections/project-2.svg)
+### ![MLH URL Shortener · Backend performance](assets/sections/ivory-heading-2.png)
 
 [![Development benchmark for GET /urls: throughput up 76.6%, latency down 43.4%, 174 tests passed.](assets/mlh-benchmark.svg)](https://github.com/RETR0-OS/MLH_PE_URL_Shortener/pull/16)
 
@@ -30,7 +30,7 @@ For updates, I limited database writes to the fields that changed. For list endp
 
 [Project](https://github.com/RETR0-OS/MLH_PE_URL_Shortener) · [Merged PR and benchmarks](https://github.com/RETR0-OS/MLH_PE_URL_Shortener/pull/16)
 
-### ![HOPE · Crisis resource chatbot](assets/sections/project-3.svg)
+### ![HOPE · Crisis resource chatbot](assets/sections/ivory-heading-3.png)
 
 I improved geographic resource search, restored missing citations by adding a retrieval step before generation, and fixed session handling so follow-up messages retained context. I also migrated inference to Amazon Nova 2 Lite.
 
@@ -38,7 +38,7 @@ HOPE connects users with WestCare Arizona resources. I worked on location-aware 
 
 [Project](https://github.com/ASUCICREPO/crisis-help-chatbot) · [Geo-search](https://github.com/ASUCICREPO/crisis-help-chatbot/commit/fb8bcba2a0b904210f83ed26b9b847add3141556) · [Citation fix](https://github.com/ASUCICREPO/crisis-help-chatbot/commit/608582b9c7caacad4fd37266e8bccc59ebad4f38) · [Session handling](https://github.com/ASUCICREPO/crisis-help-chatbot/commit/e0611e8585d718df4a0e717e5285fdd36367886d)
 
-### ![Patent Novelty Assessment](assets/sections/project-4.svg)
+### ![Patent Novelty Assessment](assets/sections/ivory-heading-4.png)
 
 Integrated deployment across Next.js, API Gateway, and Lambda. Added early stopping and resume for patent and literature searches, with persisted progress and clearer error feedback.
 
@@ -46,7 +46,7 @@ The platform searches patent databases and academic literature for prior art. I 
 
 [Project](https://github.com/ASUCICREPO/Patent-Novelty-Assessment) · [Search workflow](https://github.com/ASUCICREPO/Patent-Novelty-Assessment/commit/2c0d9acb25f12c4842b3fc45811f9094c9e583b7) · [Deployment PR](https://github.com/ASUCICREPO/Patent-Novelty-Assessment/pull/23)
 
-### ![NASWA Multilingual RAG Chatbot](assets/sections/project-5.svg)
+### ![NASWA Multilingual RAG Chatbot](assets/sections/ivory-heading-5.png)
 
 Added CDK infrastructure and a Bedrock Lambda handler, English and Spanish selection, and conversation memory. Refactored retrieval to use Bedrock `RetrieveAndGenerate` with Guardrails.
 
