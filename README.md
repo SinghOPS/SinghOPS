@@ -59,7 +59,7 @@ The assistant helps National Association of State Workforce Agencies users query
 ### AI research & tooling
 
 <details>
-<summary><img src="assets/sections/directory-multi-agent-inference-time-evaluation.svg" width="90%" alt="Multi-Agent Inference-Time Evaluation · Execution retries and accuracy"></summary>
+<summary><strong>Multi-Agent Inference-Time Evaluation</strong> · Execution retries and accuracy</summary>
 
 [Repository](https://github.com/SinghOPS/CSE476-Final-project) · `Python`
 
@@ -74,7 +74,7 @@ The five domains were math, coding, planning, common sense, and future predictio
 </details>
 
 <details>
-<summary><img src="assets/sections/directory-guardian-the-algorithmic-auditor.svg" width="90%" alt="Guardian — The Algorithmic Auditor · CSV validation and bias checks"></summary>
+<summary><strong>Guardian — The Algorithmic Auditor</strong> · CSV validation and bias checks</summary>
 
 [Repository](https://github.com/SinghOPS/spark-challenge) · `Next.js · AWS`
 
@@ -91,7 +91,7 @@ Guardian pairs a Next.js dashboard with a Python Lambda ingestion and bias-analy
 ### Applications
 
 <details>
-<summary><img src="assets/sections/directory-travelbuddy.svg" width="90%" alt="TravelBuddy · Text and image generation on iOS"></summary>
+<summary><strong>TravelBuddy</strong> · Text and image generation on iOS</summary>
 
 [Repository](https://github.com/SinghOPS/TravelBuddy) · `Swift`
 
@@ -106,7 +106,7 @@ My iOS work included the login screen, the initial navigation flow, and integrat
 </details>
 
 <details>
-<summary><img src="assets/sections/directory-prepu.svg" width="90%" alt="PrepU · Interview summaries and visual analysis"></summary>
+<summary><strong>PrepU</strong> · Interview summaries and visual analysis</summary>
 
 [Repository](https://github.com/SinghOPS/PrepU) · `React · Python`
 
@@ -121,7 +121,7 @@ PrepU combines a React frontend with Python modules. My authored commits introdu
 </details>
 
 <details>
-<summary><img src="assets/sections/directory-interviewiq.svg" width="90%" alt="InterviewIQ · Video playback and feedback"></summary>
+<summary><strong>InterviewIQ</strong> · Video playback and feedback</summary>
 
 [Repository](https://github.com/aryankhanna2004/InterviewIQ) · `React`
 
@@ -138,7 +138,7 @@ The interviewer view presents a behavioral question alongside a recorded respons
 ### Data & infrastructure
 
 <details>
-<summary><img src="assets/sections/directory-asda.svg" width="90%" alt="ASDA · Form 990 crawler and search"></summary>
+<summary><strong>ASDA</strong> · Form 990 crawler and search</summary>
 
 [Repository](https://github.com/daniel10015/ASDA) · `Flask · JavaScript`
 
@@ -153,7 +153,7 @@ The prototype helps users explore nonprofit tax filings by city, state, gross re
 </details>
 
 <details>
-<summary><img src="assets/sections/directory-aws-ai-chatbot-for-corrections.svg" width="90%" alt="AWS AI Chatbot for Corrections · CDK deployment guide"></summary>
+<summary><strong>AWS AI Chatbot for Corrections</strong> · CDK deployment guide</summary>
 
 [Repository](https://github.com/ASUCICREPO/CIC-AI-Chatbot-Corrections) · `AWS CDK`
 
