@@ -8,7 +8,7 @@ I build backend services and full-stack applications. For a patent research tool
 
 ## Technology stack
 
-<img src="assets/paper/stack-rounded.svg" width="100%" alt="Technology stack: languages, applications, cloud and deployment, AI and retrieval, data and operations">
+<img src="assets/paper/technology-stack-sql.png" width="100%" alt="Technology stack: languages, applications, cloud and deployment, AI and retrieval, data and operations">
 
 ## Featured work
 
