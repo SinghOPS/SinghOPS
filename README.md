@@ -56,8 +56,13 @@ The assistant helps National Association of State Workforce Agencies users query
 
 ## Project directory
 
+### AI research & tooling
+
+**[Multi-Agent Inference-Time Evaluation](https://github.com/SinghOPS/CSE476-Final-project)** · `Python`  
+Compare five question domains and see where execution retries improved accuracy.
+
 <details>
-<summary>Multi-Agent Inference-Time Evaluation</summary>
+<summary>Details and contributions</summary>
 
 Evaluated specialist agents across five question domains using techniques such as code execution and retries with error feedback. Accuracy rose from **20.5% to 26%** on 200 mixed examples.
 
@@ -67,8 +72,11 @@ The five domains were math, coding, planning, common sense, and future predictio
 
 </details>
 
+**[Guardian — The Algorithmic Auditor](https://github.com/SinghOPS/spark-challenge)** · `Next.js · AWS`  
+Audit selection rates and explore potential proxy bias with a Bedrock tutor.
+
 <details>
-<summary>Guardian — The Algorithmic Auditor</summary>
+<summary>Details and contributions</summary>
 
 AWS and Next.js fairness-auditing prototype with disparate-impact and proxy-bias checks. My commits cover project setup, CSV upload validation, test data, and architecture and testing guides.
 
@@ -78,8 +86,13 @@ Guardian pairs a Next.js dashboard with a Python Lambda ingestion and bias-analy
 
 </details>
 
+### Applications
+
+**[TravelBuddy](https://github.com/SinghOPS/TravelBuddy)** · `Swift`  
+Generate text and images in a Swift iOS app.
+
 <details>
-<summary>TravelBuddy</summary>
+<summary>Details and contributions</summary>
 
 Built out the Swift UI and navigation and integrated text and image generation APIs.
 
@@ -89,8 +102,11 @@ My iOS work included the login screen, the initial navigation flow, and integrat
 
 </details>
 
+**[PrepU](https://github.com/SinghOPS/PrepU)** · `React · Python`  
+Explore Python modules for summarizing interviews and analyzing visual input.
+
 <details>
-<summary>PrepU</summary>
+<summary>Details and contributions</summary>
 
 Added a summarizer, an API module, and face and emotion analysis modules for interview tooling.
 
@@ -100,8 +116,11 @@ PrepU combines a React frontend with Python modules. My authored commits introdu
 
 </details>
 
+**[InterviewIQ](https://github.com/aryankhanna2004/InterviewIQ)** · `React`  
+Review a recorded mock interview alongside structured feedback.
+
 <details>
-<summary>InterviewIQ</summary>
+<summary>Details and contributions</summary>
 
 This React mock interview prototype pairs video playback with structured feedback on answers.
 
@@ -111,8 +130,13 @@ The interviewer view presents a behavioral question alongside a recorded respons
 
 </details>
 
+### Data & infrastructure
+
+**[ASDA](https://github.com/daniel10015/ASDA)** · `Flask · JavaScript`  
+Search nonprofit Form 990 filings by location and revenue.
+
 <details>
-<summary>ASDA</summary>
+<summary>Details and contributions</summary>
 
 Authored nine upstream commits, including a crawler and Flask UI updates to a Form 990 search prototype.
 
@@ -122,8 +146,11 @@ The prototype helps users explore nonprofit tax filings by city, state, gross re
 
 </details>
 
+**[AWS AI Chatbot for Corrections](https://github.com/ASUCICREPO/CIC-AI-Chatbot-Corrections)** · `AWS CDK`  
+Deploy an Amazon Q Business assistant with a web crawler and search index.
+
 <details>
-<summary>AWS AI Chatbot for Corrections</summary>
+<summary>Details and contributions</summary>
 
 Updated the infrastructure deployment guide.
 
