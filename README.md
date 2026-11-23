@@ -12,11 +12,11 @@ I build backend services and full-stack applications. For a patent research tool
 
 ## Featured work
 
-### ![I‑ECHO · Multi-agent RAG on AWS](assets/sections/rounded-feature-1.png)
+### ![I-ECHO · Multi-agent RAG on AWS](assets/sections/i-echo-heading.png)
 
 I added the **EKS Fargate stack** and integrated API Gateway and the load balancer. I refined routing to specialist agents, fixed streaming behavior, and added citation handling with document links. My **10 merged PRs** also include PowerPoint-to-PDF ingestion and session management.
 
-I‑ECHO uses AWS Bedrock and Strands to route questions about tuberculosis and agriculture to domain-specific agents. The ingestion pipeline makes uploaded slide decks available for retrieval. On the response side, I fixed how the orchestrator handles thinking tags during streaming and added an endpoint that generates links to cited documents.
+I-ECHO uses AWS Bedrock and Strands to route questions about tuberculosis and agriculture to domain-specific agents. The ingestion pipeline makes uploaded slide decks available for retrieval. On the response side, I fixed how the orchestrator handles thinking tags during streaming and added an endpoint that generates links to cited documents.
 
 [Project](https://github.com/ASUCICREPO/IECHO-RAG-CHATBOT) · [Infrastructure](https://github.com/ASUCICREPO/IECHO-RAG-CHATBOT/commit/eee2f173e37885c3e1cd0047af41467d31f0b367) · [Agent routing](https://github.com/ASUCICREPO/IECHO-RAG-CHATBOT/commit/e29dfdcff4273dce122a97500a3ff923798d6c90) · [Ingestion PR](https://github.com/ASUCICREPO/IECHO-RAG-CHATBOT/pull/5) · [Session management](https://github.com/ASUCICREPO/IECHO-RAG-CHATBOT/pull/2)
 
