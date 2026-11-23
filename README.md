@@ -58,7 +58,11 @@ The assistant helps National Association of State Workforce Agencies users query
 
 ### AI research & tooling
 
-**[Multi-Agent Inference-Time Evaluation](https://github.com/SinghOPS/CSE476-Final-project)** · `Python`  
+<details>
+<summary><strong>Multi-Agent Inference-Time Evaluation</strong> · Execution retries and accuracy</summary>
+
+[Repository](https://github.com/SinghOPS/CSE476-Final-project) · `Python`
+
 Compare five question domains and see where execution retries improved accuracy.
 
 Evaluated specialist agents across five question domains using techniques such as code execution and retries with error feedback. Accuracy rose from **20.5% to 26%** on 200 mixed examples.
@@ -67,7 +71,13 @@ The five domains were math, coding, planning, common sense, and future predictio
 
 [Project](https://github.com/SinghOPS/CSE476-Final-project#performance-results)
 
-**[Guardian — The Algorithmic Auditor](https://github.com/SinghOPS/spark-challenge)** · `Next.js · AWS`  
+</details>
+
+<details>
+<summary><strong>Guardian — The Algorithmic Auditor</strong> · CSV validation and bias checks</summary>
+
+[Repository](https://github.com/SinghOPS/spark-challenge) · `Next.js · AWS`
+
 Audit selection rates and explore potential proxy bias with a Bedrock tutor.
 
 AWS and Next.js fairness-auditing prototype with disparate-impact and proxy-bias checks. My commits cover project setup, CSV upload validation, test data, and architecture and testing guides.
@@ -76,9 +86,15 @@ Guardian pairs a Next.js dashboard with a Python Lambda ingestion and bias-analy
 
 [Project](https://github.com/SinghOPS/spark-challenge) · [CSV validation](https://github.com/SinghOPS/spark-challenge/commit/dbe1a7b03621b35eaeafb041835839333f1b6ba9)
 
+</details>
+
 ### Applications
 
-**[TravelBuddy](https://github.com/SinghOPS/TravelBuddy)** · `Swift`  
+<details>
+<summary><strong>TravelBuddy</strong> · Text and image generation on iOS</summary>
+
+[Repository](https://github.com/SinghOPS/TravelBuddy) · `Swift`
+
 Generate text and images in a Swift iOS app.
 
 Built out the Swift UI and navigation and integrated text and image generation APIs.
@@ -87,7 +103,13 @@ My iOS work included the login screen, the initial navigation flow, and integrat
 
 [Project](https://github.com/SinghOPS/TravelBuddy) · [API integration](https://github.com/SinghOPS/TravelBuddy/commit/dfea0184e3fd7540500ca96f30a667488ee7fc95)
 
-**[PrepU](https://github.com/SinghOPS/PrepU)** · `React · Python`  
+</details>
+
+<details>
+<summary><strong>PrepU</strong> · Interview summaries and visual analysis</summary>
+
+[Repository](https://github.com/SinghOPS/PrepU) · `React · Python`
+
 Explore Python modules for summarizing interviews and analyzing visual input.
 
 Added a summarizer, an API module, and face and emotion analysis modules for interview tooling.
@@ -96,7 +118,13 @@ PrepU combines a React frontend with Python modules. My authored commits introdu
 
 [Project](https://github.com/SinghOPS/PrepU/commits/main/)
 
-**[InterviewIQ](https://github.com/aryankhanna2004/InterviewIQ)** · `React`  
+</details>
+
+<details>
+<summary><strong>InterviewIQ</strong> · Video playback and feedback</summary>
+
+[Repository](https://github.com/aryankhanna2004/InterviewIQ) · `React`
+
 Review a recorded mock interview alongside structured feedback.
 
 This React mock interview prototype pairs video playback with structured feedback on answers.
@@ -105,9 +133,15 @@ The interviewer view presents a behavioral question alongside a recorded respons
 
 [Project](https://github.com/aryankhanna2004/InterviewIQ)
 
+</details>
+
 ### Data & infrastructure
 
-**[ASDA](https://github.com/daniel10015/ASDA)** · `Flask · JavaScript`  
+<details>
+<summary><strong>ASDA</strong> · Form 990 crawler and search</summary>
+
+[Repository](https://github.com/daniel10015/ASDA) · `Flask · JavaScript`
+
 Search nonprofit Form 990 filings by location and revenue.
 
 Authored nine upstream commits, including a crawler and Flask UI updates to a Form 990 search prototype.
@@ -116,7 +150,13 @@ The prototype helps users explore nonprofit tax filings by city, state, gross re
 
 [Project](https://github.com/daniel10015/ASDA) · [Crawler commit](https://github.com/daniel10015/ASDA/commit/52282587de8c304ee3621998b93ed6de3fac1ee1)
 
-**[AWS AI Chatbot for Corrections](https://github.com/ASUCICREPO/CIC-AI-Chatbot-Corrections)** · `AWS CDK`  
+</details>
+
+<details>
+<summary><strong>AWS AI Chatbot for Corrections</strong> · CDK deployment guide</summary>
+
+[Repository](https://github.com/ASUCICREPO/CIC-AI-Chatbot-Corrections) · `AWS CDK`
+
 Deploy an Amazon Q Business assistant with a web crawler and search index.
 
 Updated the infrastructure deployment guide.
@@ -125,4 +165,7 @@ The project provisions an Amazon Q Business assistant with a web crawler, index,
 
 [Project](https://github.com/ASUCICREPO/CIC-AI-Chatbot-Corrections) · [Organization PR](https://github.com/ASUCICREPO/CIC-AI-Chatbot-Corrections/pull/2)
 
+</details>
+
 [Browse my repositories](https://github.com/SinghOPS?tab=repositories)
+
